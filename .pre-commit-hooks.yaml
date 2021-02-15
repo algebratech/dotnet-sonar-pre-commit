@@ -1,0 +1,6 @@
+-   id: dotnet-sonarscanner
+    name: Run dotnet sonarscanner for SonarQube
+    description: Analyze .NET code on SonarCloud or SonarQube server
+    entry: main
+    language: python
+    types: [python]
